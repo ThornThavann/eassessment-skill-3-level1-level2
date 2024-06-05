@@ -1,0 +1,51 @@
+body{
+    font-family: sans-serif;
+    background-image:url(image/uiiii.png) ;
+    display: flex;
+}
+.container{
+    width: 600px;
+    height: 95vh;
+    background-color: burlywood;
+    margin: auto;
+    margin-top: 15px;
+    
+}
+.est{
+text-align: center;
+}
+.right{
+    width: 50%;
+    margin-left: 2rem;
+}
+.left{
+    width: 50%;
+    margin-left: 25rem;
+   
+}
+.room{
+    width: 100%;
+    justify-content: space-between;
+    display: flex;
+
+}
+.image img{
+   margin: auto;
+   display: flex;
+    
+
+}
+h2{
+    text-align: center;
+} 
+h1{
+    font-family: Impact, serif;
+    text-align: center;
+ 
+}
+.footer{
+text-align: center;
+}
+hr{
+    color: red;
+}
